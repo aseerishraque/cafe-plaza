@@ -1,0 +1,32 @@
+
+ENJOY EASY CODE 
+
+
+
+
+
+
+
+username:admin
+password:admin
+
+waiter
+username:waiter1
+admin:admin
+
+cashier1
+
+username:cashier
+password:admin
+
+  CANDLECODE.COM - EXCLUSIVE SCRIPTS IN PHP, PLUGINS & MOBILE - DAILY RELEASES!
+
+  http://www.candlecode.com
+
+
+
+
+
+
+
+
